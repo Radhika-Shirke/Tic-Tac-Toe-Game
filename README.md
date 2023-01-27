@@ -12,3 +12,6 @@ LANGUAGES USED:
 
 PLATFORM:
 1) Android Studio
+
+
+Note: This app is developed for learning purpose using online resources
